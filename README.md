@@ -1,3 +1,5 @@
+# Not used! Probably delete it
+
 # Deepgram Live Transcription with iOS
 
 ## Usage
